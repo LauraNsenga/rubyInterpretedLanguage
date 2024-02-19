@@ -3,6 +3,7 @@
 | Instruction | Description |
 |-------------|-------------|
 | `puts`      | The `puts` method is used to output/print a string followed by a newline character (`\n`). |
+| `print`     | The `print` method prints the given object to the console without adding a newline character. It keeps the cursor on the same line. |
 | `gets`      | The `gets` method is used to get input from a user. It reads a line from the input and returns it as a string, including the newline character. |
 | `chomp`     | The `chomp` method is used to remove the trailing newline character from a string. Often used with `gets` to remove the newline character when reading user input. |
 | `reverse`   | The `reverse` method is used to reverse the characters of a string. |
