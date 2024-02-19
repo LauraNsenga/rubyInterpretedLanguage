@@ -11,6 +11,7 @@
 |`begin and rescue`| The `begin and rescue` form a block that allows you to handle exceptions. Code inside the begin block is executed, and if any exception occurs, it is caught by the rescue block.
 |`puts data`| Outputs the content of the file to the console. The puts method adds a newline character at the end.
 |`rescue StandardError => e`| Catches exceptions of the type StandardError (a common base class for many Ruby exceptions) and assigns the exception object to the variable e
+| `begin` |  used to start a block of code that may raise exceptions (errors)
 | `end` |      `end` ends a block of code.|
 
 
